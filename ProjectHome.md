@@ -1,0 +1,1 @@
+An sms client that converts user input to display in both lowercase and capitalized characters, which will be sent to the target in that format.  For example: "omG I aM taLkINg in CaPs and lOWeRcaSe aT ThE sAme TiMe"
